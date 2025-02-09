@@ -71,5 +71,8 @@
 </div>
 
 ###
+<br clear="both">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=it-ahmednour&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=it-ahmednour&theme=dark)](https://git.io/streak-stats)
+</div>
